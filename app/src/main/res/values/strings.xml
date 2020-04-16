@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EasilySpeakAndTranslate</string>
+
+
+    <string-array name="Languages">
+        <item>Arabic</item>
+        <item>Bengali</item>
+        <item>German</item>
+        <item>Spanish</item>
+        <item>Filipino</item>
+        <item>French</item>
+        <item>Gujarati</item>
+        <item>Hindi</item>
+        <item>Indonesian</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Kannada</item>
+        <item>Korean</item>
+        <item>Marathi</item>
+        <item>Portuguese</item>
+        <item>Russian</item>
+        <item>Swedish</item>
+        <item>Tamil</item>
+        <item>Telugu</item>
+        <item>Turkish</item>
+        <item>Chinese</item>
+        <item>Urdu</item>
+    </string-array>
+</resources>
